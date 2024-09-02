@@ -39,27 +39,14 @@
 ## Sumário
 
 - [Descrição](#descrição)
-- [Demonstração](#demonstração)
-- [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
 
 ## Descrição
 
-[Nome do Projeto] é um [tipo de projeto, ex: aplicativo web, biblioteca, ferramenta, etc.] que [propósito principal do projeto]. Este projeto foi criado para [motivo ou objetivo].
-
-## Demonstração
-
-Se possível, inclua uma demonstração visual do projeto, como capturas de tela, GIFs ou vídeos.
-
-![Demonstração do Projeto](link_para_screenshot.gif)
-
-## Funcionalidades
-
-- [x] Funcionalidade 1: breve descrição
-- [x] Funcionalidade 2: breve descrição
-- [ ] Funcionalidade 3: breve descrição (planejada)
+Este Repositório concentra diversas práticas de aprendizado e documentação de estudos de práticas que envolve a linguagem Go.
+Neste repositório pode haver links para outros repositórios de prática, assim como projetos utilizando a tecnologia.
 
 ## Instalação
 
