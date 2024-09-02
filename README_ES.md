@@ -36,63 +36,73 @@
 
 ---
 
-## Sumário
+<div style="display: flex; align-items: center; padding: 10px;">
+  <span>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </span>
+</div>
 
-- [Descrição](#descrição)
-- [Demonstração](#demonstração)
-- [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+---
+
+## Resumen
+
+- [Resumen](#resumen)
+- [Descripción](#descripción)
+  - [Documentación de la tecnología o tecnologías implicadas en las prácticas:](#documentación-de-la-tecnología-o-tecnologías-implicadas-en-las-prácticas)
+- [Instalación](#instalación)
+  - [Instalación de GoLang (Windows, Linux, MacOs)](#instalación-de-golang-windows-linux-macos)
+  - [Instalación del código Vs (Windows, Linux, MacOs)](#instalación-del-código-vs-windows-linux-macos)
+- [Práctico](#práctico)
 
 
-## Descrição
+## Descripción
 
-[Nome do Projeto] é um [tipo de projeto, ex: aplicativo web, biblioteca, ferramenta, etc.] que [propósito principal do projeto]. Este projeto foi criado para [motivo ou objetivo].
+Este repositorio concentra varias prácticas de aprendizaje y documentación de estudios de prácticas que involucran el lenguaje Go.
+Este repositorio puede contener enlaces a otros repositorios de prácticas, así como a proyectos que utilicen la tecnología.
 
-## Demonstração
+### Documentación de la tecnología o tecnologías implicadas en las prácticas:
+- Go Lang: https://go.dev/doc/
+- Vs Code: https://code.visualstudio.com/docs
+- Vs Code  Extensiones útiles para Go Lang: https://dev.to/sercheo87/7-extensiones-vscode-imprescindibles-para-el-desarrollo-de-golang-2ai3
 
-Se possível, inclua uma demonstração visual do projeto, como capturas de tela, GIFs ou vídeos.
+## Instalación
 
-![Demonstração do Projeto](link_para_screenshot.gif)
+### Instalación de GoLang (Windows, Linux, MacOs)
+1. acceda a:
+   1. https://go.dev/dl/ 
 
-## Funcionalidades
+2. Descárgalo según tu sistema operativo e instálalo:
+   1. Windows: https://www.treinaweb.com.br/blog/como-instalar-a-golang-e-executar-nosso-primeiro-exemplo 
+   2. Linux: https://dev.to/alexandreliberato/como-instalar-golang-no-linux-3pl9
+   3. MacOs: https://www.digitalocean.com/community/tutorials/como-instalar-o-go-e-configurar-um-ambiente-de-programacao-local-no-macos-pt
 
-- [x] Funcionalidade 1: breve descrição
-- [x] Funcionalidade 2: breve descrição
-- [ ] Funcionalidade 3: breve descrição (planejada)
+### Instalación del código Vs (Windows, Linux, MacOs)
+1. acceda a:
+   1. https://code.visualstudio.com/download
+   
+   2. Descárgalo según tu sistema operativo e instálalo:
+      1. Windows, Linux, MacOs
+         1. https://www.treinaweb.com.br/blog/instalacao-do-vs-code-no-windows-linux-e-macos
 
-## Instalação
+<p style="margin-top: 80px; margin-left: 70px;">
+  <strong>Obs.:</strong> Utilice el traductor de su navegador si es necesario.
+</p>
+<p style="margin-botton:80px; margin-left: 70px;">
+  <strong>Obs²</strong>.: Puedes practicar utilizando el Go Playgound https://go.dev/play/
+</p>
 
-### Pré-requisitos
+## Práctico
 
-Liste os pré-requisitos necessários para rodar o projeto:
-
-- [Requisito 1, ex: Node.js]
-- [Requisito 2, ex: Yarn ou NPM]
-
-### Passo a Passo
-
-1. Clone este repositório:
-    ```bash
-    git clone https://github.com/seuusuario/nomedoprojeto.git
-    ```
-2. Instale as dependências:
-    ```bash
-    npm install
-    ```
-3. Rode a aplicação:
-    ```bash
-    npm start
-    ```
-4. Acesse em `http://localhost:3000`
-
-## Tecnologias Utilizadas
-
-Liste as principais tecnologias utilizadas no projeto:
-
-- [Tecnologia 1, ex: React]
-- [Tecnologia 2, ex: Express]
-- [Tecnologia 3, ex: MongoDB]
-
+- [ ] Sintaxis básica del lenguaje.
+- [ ] Estructuras de datos disponibles en el lenguaje.
+- [ ] Manejo de ficheros.
+- [ ] Gestión de dependencias y paquetes.
+- [ ] Conexión a bases de datos.
+- [ ] CRUD CLI
+- [ ] Creación de Jobs con Go
+- [ ] API Rest
 
 
