@@ -16,19 +16,19 @@
 
 <div style="display: flex; align-items: center; padding: 10px;">
   <span>
-    <a href="https://github.com/rocunha09/go_pratice/">
+    <a href="https://github.com/rocunha09/go_pratice/blob/main/README.md">
       <img src="https://img.shields.io/badge/-Português-green?style=for-the-badge" alt="Português">
     </a>
   </span>
 
   <span>
-    <a href="https://github.com/rocunha09/go_pratice/README_EN.md">
+    <a href="https://github.com/rocunha09/go_pratice/blob/main/README_EN.md">
       <img src="https://img.shields.io/badge/-English-blue?style=for-the-badge" alt="English">
     </a>
   </span>
 
   <span>
-    <a href="https://github.com/rocunha09/go_pratice/README_ES.md">
+    <a href="https://github.com/rocunha09/go_pratice/blob/main/README_ES.md">
       <img src="https://img.shields.io/badge/-Español-red?style=for-the-badge" alt="Español">
     </a>
   </span>
