@@ -1,18 +1,49 @@
-# [GoLang_pratice]
+<p align="center">
+  <h1>
+    GoLang_pratice
+  </h1>
+</p>
 
-![Badge de Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow) 
-![Badge de Licença](https://img.shields.io/badge/license-MIT-blue)
+<div style="display: flex; align-items: center; padding: 10px;">
+  <span>
+    <a href="https://github.com/rocunha09/rocunha09">
+        <img src="https://img.shields.io/badge/-Home-black?style=for-the-badge" alt="Voltar ao Perfil">
+    </a>
+</span>
+</div>
 
-## Índice
+---
+
+<div style="display: flex; align-items: center; padding: 10px;">
+  <span>
+    <a href="https://github.com/rocunha09/go_pratice/">
+      <img src="https://img.shields.io/badge/-Português-green?style=for-the-badge" alt="Português">
+    </a>
+  </span>
+
+  <span>
+    <a href="https://github.com/rocunha09/go_pratice/go_pratice_en.md">
+      <img src="https://img.shields.io/badge/-English-blue?style=for-the-badge" alt="English">
+    </a>
+  </span>
+
+  <span>
+    <a href="https://github.com/rocunha09/go_pratice/go_pratice_es.md">
+      <img src="https://img.shields.io/badge/-Español-red?style=for-the-badge" alt="Español">
+    </a>
+  </span>
+</div>
+
+---
+
+## Sumário
 
 - [Descrição](#descrição)
 - [Demonstração](#demonstração)
 - [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ## Descrição
 
@@ -63,26 +94,4 @@ Liste as principais tecnologias utilizadas no projeto:
 - [Tecnologia 2, ex: Express]
 - [Tecnologia 3, ex: MongoDB]
 
-## Contribuindo
-
-Se você gostaria de contribuir para este projeto, siga os passos abaixo:
-
-1. Fork este repositório.
-2. Crie uma nova branch (`git checkout -b feature/nova-funcionalidade`).
-3. Commit suas alterações (`git commit -m 'Adiciona nova funcionalidade'`).
-4. Envie para a branch original (`git push origin feature/nova-funcionalidade`).
-5. Abra uma Pull Request.
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-## Contato
-
-Se tiver dúvidas ou sugestões, entre em contato:
-
-- **Nome:** Rafael Cunha
-- **Email:** seuemail@example.com
-- **LinkedIn:** [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seuperfil)
-- **GitHub:** [Seu Perfil no GitHub](https://github.com/seuusuario)
 
