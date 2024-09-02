@@ -36,63 +36,73 @@
 
 ---
 
-## Sumário
+<div style="display: flex; align-items: center; padding: 10px;">
+  <span>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  </span>
+</div>
 
-- [Descrição](#descrição)
-- [Demonstração](#demonstração)
-- [Funcionalidades](#funcionalidades)
-- [Instalação](#instalação)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+---
+
+## Summary
+
+- [Summary](#summary)
+- [Description](#description)
+  - [Documentation of the technology or technologies involved in the practices:](#documentation-of-the-technology-or-technologies-involved-in-the-practices)
+- [Installation](#installation)
+  - [Installing GoLang (Windows, Linux, MacOs)](#installing-golang-windows-linux-macos)
+  - [Installing Vs code (Windows, Linux, MacOs)](#installing-vs-code-windows-linux-macos)
+- [Practices](#practices)
 
 
-## Descrição
+## Description
 
-[Nome do Projeto] é um [tipo de projeto, ex: aplicativo web, biblioteca, ferramenta, etc.] que [propósito principal do projeto]. Este projeto foi criado para [motivo ou objetivo].
+This repository concentrates various learning practices and documentation of practice studies involving the Go language.
+In this repository there may be links to other practice repositories, as well as projects using the technology.
 
-## Demonstração
+### Documentation of the technology or technologies involved in the practices:
+- Go Lang: https://go.dev/doc/
+- Vs Code: https://code.visualstudio.com/docs
+- Vs Code  Useful extensions for Go Lang: https://dev.to/sercheo87/7-extensiones-vscode-imprescindibles-para-el-desarrollo-de-golang-2ai3
 
-Se possível, inclua uma demonstração visual do projeto, como capturas de tela, GIFs ou vídeos.
+## Installation
 
-![Demonstração do Projeto](link_para_screenshot.gif)
+### Installing GoLang (Windows, Linux, MacOs)
+1. access:
+   1. https://go.dev/dl/ 
 
-## Funcionalidades
+2. Download according to your operating system and install:
+   1. Windows: https://www.treinaweb.com.br/blog/como-instalar-a-golang-e-executar-nosso-primeiro-exemplo 
+   2. Linux: https://dev.to/alexandreliberato/como-instalar-golang-no-linux-3pl9
+   3. MacOs: https://www.digitalocean.com/community/tutorials/como-instalar-o-go-e-configurar-um-ambiente-de-programacao-local-no-macos-pt
 
-- [x] Funcionalidade 1: breve descrição
-- [x] Funcionalidade 2: breve descrição
-- [ ] Funcionalidade 3: breve descrição (planejada)
+### Installing Vs code (Windows, Linux, MacOs)
+1. access:
+   1. https://code.visualstudio.com/download
+   
+   2. Download according to your operating system and install:
+      1. Windows, Linux, MacOs
+         1. https://www.treinaweb.com.br/blog/instalacao-do-vs-code-no-windows-linux-e-macos
 
-## Instalação
+<p style="margin-top: 80px; margin-left: 70px;">
+  <strong>Obs.:</strong> Use the browser translator if necessary
+</p>
+<p style="margin-botton:80px; margin-left: 70px;">
+  <strong>Obs²</strong>.: You can practice using Go Playgound https://go.dev/play/
+</p>
 
-### Pré-requisitos
+## Practices
 
-Liste os pré-requisitos necessários para rodar o projeto:
-
-- [Requisito 1, ex: Node.js]
-- [Requisito 2, ex: Yarn ou NPM]
-
-### Passo a Passo
-
-1. Clone este repositório:
-    ```bash
-    git clone https://github.com/seuusuario/nomedoprojeto.git
-    ```
-2. Instale as dependências:
-    ```bash
-    npm install
-    ```
-3. Rode a aplicação:
-    ```bash
-    npm start
-    ```
-4. Acesse em `http://localhost:3000`
-
-## Tecnologias Utilizadas
-
-Liste as principais tecnologias utilizadas no projeto:
-
-- [Tecnologia 1, ex: React]
-- [Tecnologia 2, ex: Express]
-- [Tecnologia 3, ex: MongoDB]
-
+- [ ] Basic syntax of the language.
+- [ ] Data structures available in the language.
+- [ ] File handling.
+- [ ] Dependency and package management
+- [ ] Database connection.
+- [ ] CRUD CLI
+- [ ] Job creation with Go
+- [ ] API Res
 
 
