@@ -32,4 +32,6 @@ func main() {
 	 controlFlow()
 	 dataCollections()
 	 genericsInGo()
+	 functions()
+	 pointersInGO()
 }
