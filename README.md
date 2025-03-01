@@ -96,13 +96,18 @@ Neste repositório pode haver links para outros repositórios de prática, assim
 
 ## Práticas
 
-- [ ] Sintaxe básica da linguagem.
-- [ ] Estruturas de dados disponíveis na linguagem.
+- [x] Sintaxe básica da linguagem.
+- [x] Estruturas de dados disponíveis na linguagem.
+- [ ] P.O.O.
 - [ ] Manipulação de arquivos.
-- [ ] Gerenciamento de dependências e pacotes
+- [ ] Gerenciamento de dependências e pacotes e Mod
+- [ ] Projeto CRUD CLI: to-do list
+- [ ] Tratamento de erros
 - [ ] Conexão com Banco de dados.
-- [ ] CRUD CLI
-- [ ] Criação de Jobs com Go
+- [ ] Gerenciamento de memória
 - [ ] API Rest 
+- [ ] Projeto Web: Plataforma de BLOGs
+- [ ] GO Routines e Channels; Concorrência e paralelismo
+- [ ] Projeto: Servidor de chat em tempo real
 
 
